@@ -51,10 +51,10 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mission D",
-          "Mission C",
-          "Mission B",
-          "Mission A"
+          "Mission_D",
+          "Mission_C",
+          "Mission_B",
+          "Mission_A"
         ],
         "layout": {
           "direction": "row",
@@ -144,6 +144,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+          "Mission_B": {
+            "title": "Mission_B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Mission_A": {
             "title": "Mission_A",
             "isHidden": "no",
@@ -151,7 +167,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
