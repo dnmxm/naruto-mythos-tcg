@@ -18,7 +18,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hiruzen Sarutobi",
+    "name": "Hiruzen Sarutobi - The Professor",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -61,7 +61,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hiruzen Sarutobi",
+    "name": "Hiruzen Sarutobi - Third Hokage",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -105,7 +105,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Master Medical Ninja",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -148,7 +148,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Mitotic Regeneration",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -195,7 +195,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shizune",
+    "name": "Shizune - Assistant to Tsunade",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -236,7 +236,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shizune",
+    "name": "Shizune - Prepared Needle Shot",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -281,7 +281,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "Jiraiya - Toad sage",
     "type": "Character",
     "cost": "4",
     "rarity": "C",
@@ -324,7 +324,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "Jiraiya - Earth Style: Dark Swamp",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -370,7 +370,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Genin of the Leaf Village",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -407,7 +407,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Substitution Jutsu",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -451,7 +451,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - Genin of Team 7",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -494,7 +494,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - Chakra Prowess",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -540,7 +540,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Last of the Uchiha Clan",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -583,7 +583,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Sharingan",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -629,7 +629,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Teacher of Team 7",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -672,7 +672,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Sharingan",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -717,7 +717,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Choji Akimichi",
+    "name": "Choji Akimichi - Expansion Jutsu",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -761,7 +761,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Choji Akimichi",
+    "name": "Choji Akimichi - Human Boulder",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -808,7 +808,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ino Yamanaka",
+    "name": "Ino Yamanaka - Genin of Team 10",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -851,7 +851,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ino Yamanaka",
+    "name": "Ino Yamanaka - Mind Transfer Jutsu",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -897,7 +897,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "Shikamaru Nara - Genin of Team 10",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -940,7 +940,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "Shikamaru Nara - Shadow Possession Jutsu",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -984,7 +984,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Asuma Sarutobi",
+    "name": "Asuma Sarutobi - Teacher of Team 10",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -1027,7 +1027,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Asuma Sarutobi",
+    "name": "Asuma Sarutobi - Chakra Blade",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1070,7 +1070,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kiba Inuzuka",
+    "name": "Kiba Inuzuka - Genin of Team 8",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1113,7 +1113,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kiba Inuzuka",
+    "name": "Kiba Inuzuka - All-Fours Jutsu",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -1159,7 +1159,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Akamaru",
+    "name": "Akamaru - Ninja Hound",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -1202,7 +1202,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Akamaru",
+    "name": "Akamaru - Man Beast Clone",
     "type": "Character",
     "cost": "2",
     "rarity": "UC",
@@ -1249,7 +1249,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Akamaru",
+    "name": "Akamaru - Two-Headed Wolf",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1296,7 +1296,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hinata Hyuga",
+    "name": "Hinata Hyuga - Gentle Fist",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1340,7 +1340,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hinata Hyuga",
+    "name": "Hinata Hyuga - Byakugan",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -1384,7 +1384,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shino Aburame",
+    "name": "Shino Aburame - Parasitic Insects",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1427,7 +1427,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shino Aburame",
+    "name": "Shino Aburame - Insect Clones",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1473,7 +1473,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kurenai Yuhi",
+    "name": "Kurenai Yuhi - Teacher of Team 8",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -1516,7 +1516,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kurenai Yuhi",
+    "name": "Kurenai Yuhi - Tree Bind: Death",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1563,7 +1563,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Neji Hyuga",
+    "name": "Neji Hyuga - Gentle Fist",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1607,7 +1607,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Neji Hyuga",
+    "name": "Neji Hyuga - Eight Trigrams: Palm Rotation",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1654,7 +1654,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rock Lee",
+    "name": "Rock Lee - Training in Ferocious Fist",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1697,7 +1697,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rock Lee",
+    "name": "Rock Lee - Primary Lotus",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1744,7 +1744,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tenten",
+    "name": "Tenten - Genin of Team Guy",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -1787,7 +1787,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tenten",
+    "name": "Tenten - Weapon Specialist",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -1832,7 +1832,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Might Guy",
+    "name": "Might Guy - Teacher of Team Guy",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -1875,7 +1875,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Might Guy",
+    "name": "Might Guy - Ferocious Fist",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -1922,7 +1922,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Anko Mitarashi",
+    "name": "Anko Mitarashi - Genin Exams Proctor",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -1965,7 +1965,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Anko Mitarashi",
+    "name": "Anko Mitarashi - Striking Shadow Snake",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -2009,7 +2009,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ebisu",
+    "name": "Ebisu - Elite Trainer",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2052,7 +2052,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Iruka Umino",
+    "name": "Iruka Umino - Academy Instructor",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2093,7 +2093,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hayate Gekko",
+    "name": "Hayate Gekko - Skilled Shinobi",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2136,7 +2136,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Genma Shiranui",
+    "name": "Genma Shiranui - Elite Guard",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2179,7 +2179,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "Orochimaru - Undercover",
     "type": "Character",
     "cost": "4",
     "rarity": "C",
@@ -2223,7 +2223,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "Orochimaru - Orochimaru Style: Substitution Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -2269,7 +2269,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kabuto Yakushi",
+    "name": "Kabuto Yakushi - Infiltrator",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2312,7 +2312,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kabuto Yakushi",
+    "name": "Kabuto Yakushi - Yin Healing Wound Destruction",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2357,7 +2357,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kabuto Yakushi",
+    "name": "Kabuto Yakushi - Nirvana Temple Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -2402,7 +2402,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kimimaro",
+    "name": "Kimimaro - Camelia Dance",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2445,7 +2445,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kimimaro",
+    "name": "Kimimaro - Shikotsumyaku",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2491,7 +2491,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jirobo",
+    "name": "Jirobo - Bearer of the Curse Mark",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -2534,7 +2534,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jirobo",
+    "name": "Jirobo - Earth Style Barrier: Earth Dome Prison",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2580,7 +2580,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kidomaru",
+    "name": "Kidomaru - Bearer of the Curse Mark",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2623,7 +2623,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kidomaru",
+    "name": "Kidomaru - Spiral Spider Web",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2669,7 +2669,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakon",
+    "name": "Sakon - Bearer of the Curse Mark",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -2712,7 +2712,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakon",
+    "name": "Sakon - Black Seal",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2756,7 +2756,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ukon",
+    "name": "Ukon - Molecular Possession",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -2800,7 +2800,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tayuya",
+    "name": "Tayuya - Bearer of the Curse Mark",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -2843,7 +2843,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tayuya",
+    "name": "Tayuya - Demon Flute",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2889,7 +2889,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rage Ogres",
+    "name": "Rage Ogres - Summoning",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2933,7 +2933,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rashomon",
+    "name": "Rashomon - Summoning",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -2977,7 +2977,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dosu Kinuta",
+    "name": "Dosu Kinuta - Superhuman Hearing",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3022,7 +3022,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Dosu Kinuta",
+    "name": "Dosu Kinuta - Resonating Echo Speaker",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3068,7 +3068,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zaku Abumi",
+    "name": "Zaku Abumi - Overconfident Shinobi",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -3111,7 +3111,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zaku Abumi",
+    "name": "Zaku Abumi - Slicing Sound Wave",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3156,7 +3156,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kin Tsuchi",
+    "name": "Kin Tsuchi - Kunoichi",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -3199,7 +3199,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kin Tsuchi",
+    "name": "Kin Tsuchi - Bell Sound Clone",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3245,7 +3245,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Genin of the Sand Village",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -3288,7 +3288,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Sand Shield",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3333,7 +3333,7 @@
         "isHorizontal": false
       }
     },
-    "name": "One-tail",
+    "name": "One-tail - Partial transformation",
     "type": "Character",
     "cost": "6",
     "rarity": "UC",
@@ -3377,7 +3377,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kankuro",
+    "name": "Kankuro - Chakra Threads",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3420,7 +3420,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kankuro",
+    "name": "Kankuro - Puppet Master Jutsu",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3466,7 +3466,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Temari",
+    "name": "Temari - Kunoichi",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -3509,7 +3509,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Temari",
+    "name": "Temari - Cyclone Scythe Jutsu",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3555,7 +3555,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Baki",
+    "name": "Baki - Council Agent",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3598,7 +3598,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Baki",
+    "name": "Baki - Wind Sword",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3643,7 +3643,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rasa",
+    "name": "Rasa - Fourth Kazekage",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -3684,7 +3684,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yashamaru",
+    "name": "Yashamaru - Gaara's Caretaker",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -3725,7 +3725,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yashamaru",
+    "name": "Yashamaru - Sacrificial Mission",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3768,7 +3768,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zabuza Momochi",
+    "name": "Zabuza Momochi - Kubikiribōchō",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3805,7 +3805,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Zabuza Momochi",
+    "name": "Zabuza Momochi - Water Prison Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -3851,7 +3851,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Haku",
+    "name": "Haku - Orphan from the Land of Water",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -3894,7 +3894,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Haku",
+    "name": "Haku - Crystal Ice Mirrors",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -3940,7 +3940,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Akatsuki Investigator",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -3983,7 +3983,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Mangekyō Sharingan",
     "type": "Character",
     "cost": "5",
     "rarity": "UC",
@@ -4029,7 +4029,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kisame Hoshigaki",
+    "name": "Kisame Hoshigaki - Rogue Ninja of the Hidden Mist",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -4072,7 +4072,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kisame Hoshigaki",
+    "name": "Kisame Hoshigaki - Samehada",
     "type": "Character",
     "cost": "6",
     "rarity": "UC",
@@ -4117,7 +4117,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gamabunta",
+    "name": "Gamabunta - Chief Toad",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -4160,7 +4160,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gamahiro",
+    "name": "Gamahiro - Armed Toad",
     "type": "Character",
     "cost": "4",
     "rarity": "C",
@@ -4205,7 +4205,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gamakichi",
+    "name": "Gamakichi - Eldest Son of Gamabunta",
     "type": "Character",
     "cost": "2",
     "rarity": "C",
@@ -4249,7 +4249,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gamatatsu",
+    "name": "Gamatatsu - Youngest Son of Gamabunta",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -4292,7 +4292,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Katsuyu",
+    "name": "Katsuyu - Giant Slug",
     "type": "Character",
     "cost": "3",
     "rarity": "C",
@@ -4337,7 +4337,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Pakkun",
+    "name": "Pakkun - Kakashi's Ninja Hound",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -4380,7 +4380,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ninja Hound Corps",
+    "name": "Ninja Hound Corps - Kakashi's Ninja Hounds",
     "type": "Character",
     "cost": "1",
     "rarity": "C",
@@ -4423,7 +4423,7 @@
         "isHorizontal": false
       }
     },
-    "name": "TonTon",
+    "name": "TonTon - Tsunade's Ninja Pig",
     "type": "Character",
     "cost": "0",
     "rarity": "C",
@@ -4466,7 +4466,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Manda",
+    "name": "Manda - Summoned by Orochimaru",
     "type": "Character",
     "cost": "3",
     "rarity": "UC",
@@ -4512,7 +4512,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kyodaigumo",
+    "name": "Kyodaigumo - Rain of Spiders",
     "type": "Character",
     "cost": "4",
     "rarity": "UC",
@@ -4555,7 +4555,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Legendary Sannin",
     "type": "Character",
     "cost": "5",
     "rarity": "MV",
@@ -4601,7 +4601,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Legendary Sannin",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -4646,7 +4646,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - I'm the Fith Hokage of the Leaf Village!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -4691,7 +4691,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "Jiraiya - Summoning Jutsu",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -4737,7 +4737,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "Jiraiya - Hermit of Mount Myoboku",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -4783,7 +4783,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Curse Sealing",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -4829,7 +4829,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - The Copy Ninja",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -4875,7 +4875,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Chidori",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -4921,7 +4921,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - The last Uchiha",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -4967,7 +4967,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - I won’t run away!",
     "type": "Character",
     "cost": "4",
     "rarity": "MV",
@@ -5013,7 +5013,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Shadow Clone Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -5059,7 +5059,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Believe it!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -5105,7 +5105,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - Medical Ninja",
     "type": "Character",
     "cost": "4",
     "rarity": "R",
@@ -5150,7 +5150,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - Now it's my turn to take the lead.",
     "type": "Character",
     "cost": "4",
     "rarity": "RA",
@@ -5195,7 +5195,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ino Yamanaka",
+    "name": "Ino Yamanaka - Mind Destruction Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -5241,7 +5241,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Ino Yamanaka",
+    "name": "Ino Yamanaka - Mind Transfer Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -5287,7 +5287,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "Shikamaru Nara - Shadow Strangle Jutsu",
     "type": "Character",
     "cost": "6",
     "rarity": "MV",
@@ -5334,7 +5334,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "Shikamaru Nara - Shadow Strangle Jutsu",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -5381,7 +5381,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shikamaru Nara",
+    "name": "Shikamaru Nara - This whole thing's a drag...",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -5428,7 +5428,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Choji Akimichi",
+    "name": "Choji Akimichi - Chili Pepper Pill",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -5473,7 +5473,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Choji Akimichi",
+    "name": "Choji Akimichi - Who you calling fat?",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -5518,7 +5518,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kiba Inuzuka",
+    "name": "Kiba Inuzuka - Fang Over Fang",
     "type": "Character",
     "cost": "6",
     "rarity": "MV",
@@ -5564,7 +5564,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kiba Inuzuka",
+    "name": "Kiba Inuzuka - Fang Over Fang",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -5610,7 +5610,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kiba Inuzuka",
+    "name": "Kiba Inuzuka - Stay with me Akamaru",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -5656,7 +5656,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hinata Hyuga",
+    "name": "Hinata Hyuga - Protective Eight Trigrams Sixty-Four Palms",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -5702,7 +5702,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Hinata Hyuga",
+    "name": "Hinata Hyuga - No more hiding!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -5748,7 +5748,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shino Aburame",
+    "name": "Shino Aburame - Wall of Insects Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -5795,7 +5795,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Shino Aburame",
+    "name": "Shino Aburame - I am a member of the Hidden Leaf Village’s Aburame clan.",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -5842,7 +5842,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Neji Hyuga",
+    "name": "Neji Hyuga - Eight Trigrams Sixty-Four Palms",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -5888,7 +5888,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Neji Hyuga",
+    "name": "Neji Hyuga - Eight Trigrams Sixty-Four Palms",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -5934,7 +5934,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rock Lee",
+    "name": "Rock Lee - Loopy Fist",
     "type": "Character",
     "cost": "5",
     "rarity": "MV",
@@ -5981,7 +5981,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rock Lee",
+    "name": "Rock Lee - Loopy Fist",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6028,7 +6028,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rock Lee",
+    "name": "Rock Lee - I will make you proud, Sensei.",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6075,7 +6075,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tenten",
+    "name": "Tenten - Rising Twin Dragons",
     "type": "Character",
     "cost": "4",
     "rarity": "R",
@@ -6119,7 +6119,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tenten",
+    "name": "Tenten - Twin Rising Dragons",
     "type": "Character",
     "cost": "4",
     "rarity": "RA",
@@ -6163,7 +6163,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kankuro",
+    "name": "Kankuro - Secret Black Move: Iron Maiden",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6209,7 +6209,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kankuro",
+    "name": "Kankuro - ...We'll have a Puppet Show!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6255,7 +6255,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Sand Coffin",
     "type": "Character",
     "cost": "4",
     "rarity": "MV",
@@ -6301,7 +6301,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Sand Coffin",
     "type": "Character",
     "cost": "4",
     "rarity": "R",
@@ -6347,7 +6347,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Sand Coffin",
     "type": "Character",
     "cost": "4",
     "rarity": "RA",
@@ -6393,7 +6393,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Temari",
+    "name": "Temari - Wind Scythe Jutsu",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6439,7 +6439,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Temari",
+    "name": "Temari - It's finished.",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6485,7 +6485,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jirobo",
+    "name": "Jirobo - Slamming Palm",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6531,7 +6531,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jirobo",
+    "name": "Jirobo - Slamming Palm!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6577,7 +6577,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kimimaro",
+    "name": "Kimimaro - Earth Curse Mark",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -6623,7 +6623,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kimimaro",
+    "name": "Kimimaro - It's over.",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -6669,7 +6669,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kidomaru",
+    "name": "Kidomaru - Gum Style Spider Thread",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6715,7 +6715,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kidomaru",
+    "name": "Kidomaru - I trapped you.",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6761,7 +6761,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tayuya",
+    "name": "Tayuya - Demon Flute: Chains of Fantasia",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6808,7 +6808,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tayuya",
+    "name": "Tayuya - This flute is my only weapon!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -6855,7 +6855,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "Orochimaru - Stay out of my way",
     "type": "Character",
     "cost": "7",
     "rarity": "R",
@@ -6900,7 +6900,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "Orochimaru - Stay out of my Way",
     "type": "Character",
     "cost": "7",
     "rarity": "RA",
@@ -6945,7 +6945,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakon",
+    "name": "Sakon - Fists Barrage",
     "type": "Character",
     "cost": "5",
     "rarity": "R",
@@ -6991,7 +6991,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakon",
+    "name": "Sakon - Don't you mess with me!",
     "type": "Character",
     "cost": "5",
     "rarity": "RA",
@@ -7037,7 +7037,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Amaterasu",
     "type": "Character",
     "cost": "6",
     "rarity": "MV",
@@ -7084,7 +7084,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Amaterasu",
     "type": "Character",
     "cost": "6",
     "rarity": "R",
@@ -7131,7 +7131,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - I control them all.",
     "type": "Character",
     "cost": "6",
     "rarity": "RA",
@@ -7177,7 +7177,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nine-Tailed Fox",
+    "name": "Nine-Tailed Fox - You better be grateful to me...",
     "type": "Character",
     "cost": "7",
     "rarity": "R",
@@ -7221,7 +7221,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nine-Tailed Fox",
+    "name": "Nine-Tailed Fox - You better be grateful to me...",
     "type": "Character",
     "cost": "7",
     "rarity": "RA",
@@ -7265,7 +7265,7 @@
         "isHorizontal": false
       }
     },
-    "name": "One-tail",
+    "name": "One-tail - I hope you're ready to die!",
     "type": "Character",
     "cost": "7",
     "rarity": "R",
@@ -7312,7 +7312,7 @@
         "isHorizontal": false
       }
     },
-    "name": "One-tail",
+    "name": "One-tail - I hope you're ready to die!",
     "type": "Character",
     "cost": "7",
     "rarity": "RA",
@@ -7359,7 +7359,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Fifth Hokage",
     "type": "Character",
     "cost": "7",
     "rarity": "S",
@@ -7403,7 +7403,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Tsunade",
+    "name": "Tsunade - Fifth Hokage",
     "type": "Character",
     "cost": "7",
     "rarity": "SV",
@@ -7447,7 +7447,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jiraiya",
+    "name": "Jiraiya - Toad Mouth Trap",
     "type": "Character",
     "cost": "8",
     "rarity": "S",
@@ -7493,7 +7493,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Ready or not, Ramen, here I come!",
     "type": "Character",
     "cost": "6",
     "rarity": "MV",
@@ -7539,7 +7539,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Ninja Art! Summoning Jutsu!",
     "type": "Character",
     "cost": "6",
     "rarity": "MV",
@@ -7585,7 +7585,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Rasengan",
     "type": "Character",
     "cost": "6",
     "rarity": "S",
@@ -7631,7 +7631,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Rasengan",
     "type": "Character",
     "cost": "6",
     "rarity": "SV",
@@ -7677,7 +7677,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Nine-Tailed Fox",
+    "name": "Nine-Tailed Fox - Destruction",
     "type": "Character",
     "cost": "8",
     "rarity": "S",
@@ -7723,7 +7723,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - The Leaf Medical Corps",
     "type": "Character",
     "cost": "5",
     "rarity": "S",
@@ -7768,7 +7768,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - He’s looking... right at me!",
     "type": "Character",
     "cost": "5",
     "rarity": "MV",
@@ -7813,7 +7813,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Heaven Curse Mark",
     "type": "Character",
     "cost": "7",
     "rarity": "S",
@@ -7860,7 +7860,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Heaven Curse Mark",
     "type": "Character",
     "cost": "7",
     "rarity": "SV",
@@ -7907,7 +7907,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - You're annonying.",
     "type": "Character",
     "cost": "7",
     "rarity": "MV",
@@ -7954,7 +7954,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Lightning Blade",
     "type": "Character",
     "cost": "7",
     "rarity": "S",
@@ -8000,7 +8000,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Lightning Blade",
     "type": "Character",
     "cost": "7",
     "rarity": "SV",
@@ -8046,7 +8046,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - I won’t be able to read Make-Out Paradise now.",
     "type": "Character",
     "cost": "7",
     "rarity": "MV",
@@ -8092,7 +8092,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Orochimaru",
+    "name": "Orochimaru - Reanimation",
     "type": "Character",
     "cost": "6",
     "rarity": "S",
@@ -8139,7 +8139,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Gaara",
+    "name": "Gaara - Sand Burial",
     "type": "Character",
     "cost": "5",
     "rarity": "S",
@@ -8185,7 +8185,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Tsukuyomi",
     "type": "Character",
     "cost": "7",
     "rarity": "S",
@@ -8231,7 +8231,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Challenging Sasuke",
     "type": "Character",
     "cost": "5",
     "rarity": "M",
@@ -8274,7 +8274,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Challenging Naruto",
     "type": "Character",
     "cost": "5",
     "rarity": "M",
@@ -8317,7 +8317,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Itachi Uchiha",
+    "name": "Itachi Uchiha - Hunting Naruto",
     "type": "Character",
     "cost": "5",
     "rarity": "M",
@@ -8362,7 +8362,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kisame Hoshigaki",
+    "name": "Kisame Hoshigaki - Chakra Absorb",
     "type": "Character",
     "cost": "6",
     "rarity": "M",
@@ -8405,7 +8405,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Naruto Uzumaki",
+    "name": "Naruto Uzumaki - Original Team 7",
     "type": "Character",
     "cost": "5",
     "rarity": "M",
@@ -8448,7 +8448,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sasuke Uchiha",
+    "name": "Sasuke Uchiha - Original Team 7",
     "type": "Character",
     "cost": "3",
     "rarity": "M",
@@ -8491,7 +8491,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sakura Haruno",
+    "name": "Sakura Haruno - Original Team 7",
     "type": "Character",
     "cost": "3",
     "rarity": "M",
@@ -8534,7 +8534,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Kakashi Hatake",
+    "name": "Kakashi Hatake - Original Team 7",
     "type": "Character",
     "cost": "4",
     "rarity": "M",
