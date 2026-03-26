@@ -67,8 +67,7 @@
           "Board_D",
           "Board_C",
           "Board_B",
-          "Board_A",
-          "Chakra"
+          "Board_A"
         ],
         "layout": {
           "direction": "column",
@@ -115,17 +114,6 @@
                 },
                 {
                   "section": "Board_A",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Chakra",
                   "style": false
                 }
               ],
